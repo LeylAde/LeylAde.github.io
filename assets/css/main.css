@@ -2806,7 +2806,7 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #f7f7f7;
 							color: #2A4C1D !important;
 						}
 
@@ -2817,14 +2817,14 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: #f7f7f7;
 		padding-right: 23em;
 	}
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #efefef;
 	}
 
 		#main > section > .container {
@@ -2838,7 +2838,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #efefef;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
